@@ -74,7 +74,7 @@ h1 {
 header img {
   float: right;
   display: block;
-  height: auto;
+  height: 60px;
   padding-top: auto;
   margin-right: auto;
 }
