@@ -72,11 +72,9 @@ h1 {
   text-transform: uppercase;
 }
 header img {
-  float: right;
   display: block;
   height: 60px;
   padding-top: auto;
-  margin-right: auto;
 }
 nav {
   height: auto;
