@@ -74,10 +74,10 @@ h1 {
 header img {
   display: block;
   height: 60px;
-  padding-top: auto;
+  padding-top: 20.15px;
 }
 nav {
-  height: auto;
+  height: 50px;
   flex: 100%;
   display: flex;
 }
