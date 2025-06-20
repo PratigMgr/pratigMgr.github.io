@@ -55,13 +55,13 @@ header, footer {
 
 @font-face {
   font-family: "Sanseriffic";
-  src: url("C:/Users/grize/OneDrive/Documents/GitHub/PratigMgr.github.io/Lab 3/Part 3/font/Sanseriffic.otf");
+  src: url("../font/Sanseriffic.otf");
   font-weight: bolder;
 }
 
 @font-face {
   font-family: "SlabRegular";
-    src: url("C:/Users/grize/OneDrive/Documents/GitHub/pratigMgr.github.io/Lab 3/Part 3/font/TypoSlabserif-Light.ttf");
+    src: url("../font/TypoSlabserif-Light.ttf");
     font-weight: bolder;
   }
 h1 {
@@ -89,7 +89,7 @@ a:focus {
   display: inline-block;
   width: 8px;
   height: 8px;
-  background-image: url('C:/Users/grize/OneDrive/Documents/GitHub/pratigMgr.github.io/Lab 3/Part 3/image/external-link-52.png');
+  background-image: url("../image/external-link-52.png");
   background-repeat: no-repeat;
   background-size: contain;
   margin-left: 4px;
