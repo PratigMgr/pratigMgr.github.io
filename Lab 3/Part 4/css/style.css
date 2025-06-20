@@ -39,7 +39,7 @@ nav ul {
   list-style: none;
   flex: 2;
   display: flex;
-  gap: 10%;
+  gap: 15%;
 }
 
 nav a {
