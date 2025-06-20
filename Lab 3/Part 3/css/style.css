@@ -20,7 +20,7 @@ body {
 /* Layout */
 
 section {
-  float: left;
+  float: right;
   width: 50%;
 }
 
@@ -35,6 +35,7 @@ nav {
   background-color: solid #a66;
   border: 5px solid solid #a66;
   padding: 25px 20px;
+
 }
 
 footer {
