@@ -20,7 +20,7 @@ body {
 /* Layout */
 
 section {
-  float: right;
+  float: left;
   width: 50%;
 }
 
