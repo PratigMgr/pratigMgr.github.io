@@ -160,7 +160,7 @@ while (balls.length < 25) {
   balls.push(ball);
 }
 // Create player-controlled evil circle
-const evilCircle = new EvilCircle(random(0, width), random(0, height));
+const evilBall = new EvilCircle(random(0, width), random(0, height));
 // Main animation loop
 function loop() {
   // Clear canvas with semi-transparent black (
@@ -175,9 +175,9 @@ function loop() {
     }
   }
   // Handle evil circle operations
-  evilCircle.draw();
-  evilCircle.checkBounds();
-  evilCircle.collisionDetect();
+  evilBall.draw();
+  evilBall.checkBounds();
+  evilBall.collisionDetect();
 
   // Update ball count display
   document.querySelector('p').textContent = `Balls remaining: ${balls.filter(b => b.exists).length}`;
