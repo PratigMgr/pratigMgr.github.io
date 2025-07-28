@@ -15,6 +15,7 @@ function randomRGB() {
   return `rgb(${random(0, 255)},${random(0, 255)},${random(0, 255)})`;
 }
 
+const para = document.querySelector('p');
 // Base Shape class for common properties (position, velocity)
 class Shape {
   constructor(x, y, velX, velY) {
@@ -180,7 +181,7 @@ function loop() {
   evilBall.collisionDetect();
 
   // Update ball count display
-  document.querySelector('p').textContent = `Balls remaining: ${balls.filter(b => b.exists).length}`;
+  para.textContent = `Balls remaining: ${balls.filter(b => b.exists).length}`;
 // Continue animation
   requestAnimationFrame(loop);
 }
