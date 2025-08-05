@@ -16,6 +16,24 @@ showHideBtn.onclick = function() {
   }
 };
 
+// Add this to add keyboard support
+showHideBtn.addEventListener('keydown', function(e) {
+  if (e.key === 'Enter' || e.key === ' ') {
+    e.preventDefault();
+    // Reuse the same toggle logic as click handler
+    let showHideText = showHideBtn.textContent;
+    if (showHideText === 'Show comments') {
+      showHideBtn.textContent = 'Hide comments';
+      commentWrapper.style.display = 'block';
+      showHideBtn.setAttribute('aria-expanded', 'true');
+    } else {
+      showHideBtn.textContent = 'Show comments';
+      commentWrapper.style.display = 'none';
+      showHideBtn.setAttribute('aria-expanded', 'false');
+    }
+  }
+});
+
 // functionality for adding a new comment via the comments form
 
 const form = document.querySelector('.comment-form');
