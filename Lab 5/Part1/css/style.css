@@ -19,7 +19,6 @@ body {
 /* Improve contrast for body text */
 body {
     color: #222; /* Slightly darker than #333 */
-  background-color: #f8f8f8; /* Lighter background */
 }
 
 /* Improve contrast for links */
