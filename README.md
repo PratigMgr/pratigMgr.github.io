@@ -82,4 +82,4 @@ To secure a **Junior Full-Stack Developer** role where I can contribute to real 
 
 ## 📫 Connect
 - GitHub: You’re already here 🙂
-- LinkedIn: *(add when ready)*
+- LinkedIn: www.linkedin.com/in/pratig-mgr
