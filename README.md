@@ -1,9 +1,10 @@
 # Hi, I'm Pratig 👋
 
-🎓 Computer Programming diploma student in Canada  
-💻 Aspiring **Junior Full-Stack Developer**  
-🧠 Strong foundation in **backend development** with hands-on full-stack projects  
-🚀 Building real-world web applications using **PHP, SQL, HTML, CSS, and JavaScript**  
+🎓 Computer Programming student in Canada  
+💻 Aspiring **Junior Full-Stack Developer (backend-focused)**  
+🧠 Strong interest in backend development with hands-on full-stack projects  
+🚀 Building real-world applications using **PHP, SQL, HTML, CSS, and JavaScript**  
+🔧 Gaining backend experience through projects in **PHP, Java, Python, and C#**  
 🧪 Learning **Selenium** for UI test automation  
 📂 Focused on **projects, problem-solving, and clean code**
 
@@ -14,20 +15,21 @@
 **Frontend**
 - HTML
 - CSS
-- JavaScript (basic DOM & validation)
+- JavaScript (basic DOM manipulation & validation)
 
 **Backend**
-- PHP
-- C# (working knowledge)
+- PHP (primary)
+- Java, Python, C# (project-based experience)
 
 **Database**
-- MySQL / PostgreSQL
+- SQL (MySQL / PostgreSQL)
 
 **Testing**
 - Selenium (UI Automation)
 
 **Tools**
 - Git, GitHub, VS Code
+- Linux (basic)
 
 ---
 
@@ -36,11 +38,11 @@
 ### 🔹 Smart Student Deadline & Stress Manager
 A full-stack web application designed to help students manage courses, assignments, deadlines, and stress levels using real-world logic.
 
-**Key highlights:**
+**Highlights**
 - User authentication & sessions
 - CRUD operations with relational database
 - Deadline-based stress calculation logic
-- Clean dashboard UI
+- Clean and functional dashboard UI
 
 *PHP • SQL • Full-Stack Development*
 
@@ -66,9 +68,9 @@ A logic-driven simulation game focused on decision-making, state management, and
 ---
 
 ## 🌱 Currently Learning
-- Backend best practices
+- Backend best practices across multiple languages
 - Database design & optimization
-- Writing maintainable, readable code
+- Writing maintainable and readable code
 - End-to-end application testing
 
 ---
