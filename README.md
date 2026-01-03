@@ -60,8 +60,8 @@ An automated UI testing framework built to validate core user flows such as logi
 
 ---
 
-### 🔹 Decision-Based Simulation Game (C#)
-A logic-driven simulation game focused on decision-making, state management, and real-life scenarios.
+### 🔹 Decision-Based Simulation Game  (C#)
+A logic-driven simulation project focused on decision-making, state management, and real-life scenarios.
 
 *C# • OOP • Game Logic*
 
