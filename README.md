@@ -6,7 +6,7 @@
 🚀 Building real-world applications using **PHP, SQL, HTML, CSS, and JavaScript**  
 🔧 Gaining backend experience through projects in **PHP, Java, Python, and C#**  
 🧪 Learning **Selenium** for UI test automation  
-📂 Focused on **projects, problem-solving, and clean code** <b text-color="red">( My College Projects)</b>
+📂 Focused on **projects, problem-solving, and clean code** <b style= "color: red;">( My College Projects)</b>
 
 ---
 
