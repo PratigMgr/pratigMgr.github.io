@@ -1,4 +1,4 @@
-# Hi, I'm Pratig, Here you can find my College Projects that I contributed. 👋
+# Hi, I'm Pratig. 👋
 
 🎓 Computer Programming student in Canada  
 💻 Aspiring **Junior Full-Stack Developer (backend-focused)**  
@@ -6,7 +6,7 @@
 🚀 Building real-world applications using **PHP, SQL, HTML, CSS, and JavaScript**  
 🔧 Gaining backend experience through projects in **PHP, Java, Python, and C#**  
 🧪 Learning **Selenium** for UI test automation  
-📂 Focused on **projects, problem-solving, and clean code**
+📂 Focused on **projects, problem-solving, and clean code** <b>(Here you can find my College Projects that I contributed.)</b>
 
 ---
 
