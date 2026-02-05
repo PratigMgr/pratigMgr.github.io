@@ -1,4 +1,4 @@
-# Hi, I'm Pratig 👋
+# Hi, I'm Pratig, Here you can find my College Projects that I contributed. 👋
 
 🎓 Computer Programming student in Canada  
 💻 Aspiring **Junior Full-Stack Developer (backend-focused)**  
